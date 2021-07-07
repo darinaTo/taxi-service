@@ -45,7 +45,6 @@
         <servlet-name>addDriver</servlet-name>
         <url-pattern>/drivers/add</url-pattern>
     </servlet-mapping>
-
     <servlet>
         <servlet-name>allCars</servlet-name>
         <servlet-class>mate.controller.car.GetAllCarsController</servlet-class>
